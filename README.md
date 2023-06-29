@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ntonkih
-- 👀 I’m interested in Fotography
+- 👀 I’m interested in Fotography and mountains
 - 🌱 I’m currently learning Java and English Language
 - 💞️ I’m looking to collaborate on all interesting and growing people
 - 📫 How to reach me ntonkih@gmail.com
