@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @ntonkih
-- 👀 I’m interested in Fotography and mountains
+👋 Привет, Я Николай!
+ QA Engineer
+ 👀 Люблю Горы и Фотографии и Самолеты.
+ 
+
 - 🌱 I’m currently learning Java and English Language
 - 💞️ I’m looking to collaborate on all interesting and growing people
 - 📫 How to reach me ntonkih@gmail.com
