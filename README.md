@@ -1,11 +1,12 @@
-👋 Привет, Я Николай!
- QA Engineer
- 👀 Люблю Горы и Фотографии и Самолеты.
- 
+   👋 Привет, Я Николай!
+       
+       QA Engineer
+       
+   👀 Люблю Горы и Фотографии и Самолеты.
+   
+   В текущи момент изучаю Авто тестирование на технологиях JS + Playwright
 
-- 🌱 I’m currently learning Java and English Language
-- 💞️ I’m looking to collaborate on all interesting and growing people
-- 📫 How to reach me ntonkih@gmail.com
+   📫 Связаться со мной можно: ntonkih@gmail.com
 
 
 <!---
